@@ -1,7 +1,8 @@
-![MasterHead](https://64.media.tumblr.com/7696b08be336171baef4a005d1426e1a/0727fe47787d0a0c-a6/s540x810/595474d90bdf58493ae0d3a4ea5c1bf3391242a1.gif)
+![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Bibek</h1>
 <h3 align="center">Frontend Enthusiast | ReactJS, React Native, Tailwind CSS, NodeJS</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bib3k4u&label=Profile%20views&color=0e75b6&style=flat" alt="bib3k4u" /> </p>
 
