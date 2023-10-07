@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bib3k4u" alt="bib3k4u" /></a> </p>
 
-- 🔭 I’m currently working on **Blogger's Hub**
+- 🔭 I’m currently working on **Blogger's Hub **
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **NextJS and NodeJS**
 
 - 👨‍💻 All of my projects are available at [https://reachmyportfolio.netlify.app/](https://reachmyportfolio.netlify.app/)
 
