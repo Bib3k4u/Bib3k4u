@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://reachmyportfolio.netlify.app/](https://reachmyportfolio.netlify.app/)
 
-- 💬 Ask me about **MERN STACK, ReactNative, TailwindCSS, Data Structure & Algo using Java**
+- 💬 Ask me about **MERN STACK, Javascript, ReactNative, TailwindCSS, Data Structure & Algo using Java**
 
 - 📫 How to reach me **zhabibek4u@gmail.com**
 
