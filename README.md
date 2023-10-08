@@ -20,7 +20,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1issDFN61btmXDwciXy_WFY0EG1BfkjB6/view?usp=sharing](https://drive.google.com/file/d/1issDFN61btmXDwciXy_WFY0EG1BfkjB6/view?usp=sharing)
 
-- ⚡ Fun fact **I think I'm Lazy**
+- ⚡ Fun fact **I think I'm Lazy. I love to sleep.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
