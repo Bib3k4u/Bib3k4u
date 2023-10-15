@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on **Blogger's Hub**
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **NextJS and No**
 
 - 👨‍💻 All of my projects are available at [https://reachmyportfolio.netlify.app/](https://reachmyportfolio.netlify.app/)
 
