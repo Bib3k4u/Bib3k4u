@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bibek</h1>
-<h3 align="center">Frontend Enthusiast | MERN Stack, React Native, Tailwind CSS </h3>
+<h3 align="center">Frontend Enthusiast | MERN Stack, React Native, Tailwind CSS</h3>
 
 
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e) <h3 align="center">HacktoberFest 2023 Badges  🌱 ⚡</h3>
