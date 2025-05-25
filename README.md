@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bibek</h1>
-<h3 align="center">Frontend Enthusiast | MERN Stack, React Native, Tailwind CSS</h3>
+<h3 align="center"> Full-Stack Developer | Java, SpringBoot, React, React Native, Tailwind CSS</h3>
 
 
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e) <h3 align="center">HacktoberFest 2023 Badges  🌱 ⚡</h3>
@@ -16,11 +16,11 @@
 
 - 🔭 I’m currently working on **Online PMS**
 
-- 🌱 I’m currently learning **NextJS and NodeJS**
+- 🌱 I’m currently learning **SYstem Design and Azure**
 
 - 👨‍💻 All of my projects are available at [https://reachmyportfolio.netlify.app/](https://reachmyportfolio.netlify.app/)
 
-- 💬 Ask me about **MERN STACK, Javascript, ReactNative, TailwindCSS, Data Structure & Algo using Java, SQL, MYSQL**
+- 💬 Ask me about **Java, FullStack, Javascript, ReactNative, TailwindCSS, Data Structure & Algo using Java, SQL, MYSQL, MongoDB**
 
 - 📫 How to reach me **zhabibek4u@gmail.com**
 
